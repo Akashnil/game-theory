@@ -1,5 +1,6 @@
 # game-theory
 A game about choosing numbers
+
 Each player recieve 2 random real number from 0 to 1 (with uniform distribution) secretly. Then both simultaneously choose a number from the two choice he get.
 
 After revealing both numbers, the bigger one wins if it's more than 3 times bigger than the smaller one. (Draw if both player choose the same number. But this almost never happens.)
