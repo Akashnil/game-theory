@@ -11,7 +11,7 @@ Alice got 0.345 and 0.192
 
 Bob got 0.777 and 0.212
 
-If Alice choose 0.345 and Bob choose 0.777, then Alice wins because 0.777 > 0.345 but 0.777 < 0.345*3. If Alice choose 0.192 instead, the Bob would win as 0.777 > 0.192*3.
+If Alice choose 0.345 and Bob choose 0.777, then Alice wins because 0.777 > 0.345 but 0.777 < 0.345\*3. If Alice choose 0.192 instead, the Bob would win as 0.777 > 0.192\*3.
 
 
 Solution:
